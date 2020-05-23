@@ -1,5 +1,7 @@
 # Diabetic-Retinopathy-detection-kaggle
 
+The project has been explained in the PPT file to better understand it.
+
 I have uploaded some of my Kaggle kernels I ran which gave me the following results:
 
 
